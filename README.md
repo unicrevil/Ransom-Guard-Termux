@@ -8,9 +8,10 @@
 ---
 ### 💀 O QUE É ISSO?
 
-Um detector de ransomware 100% em Python que roda DENTRO do seu Android via Termux.
-Enquanto você dorme, ele vigia. Se um app tentar criptografar suas fotos em massa, ele GRITA.
+# Ransom-Guard-Termux
+Ferramenta defensiva educacional que monitora em tempo real criação massiva de arquivos, criptografia suspeita e processos em /storage no Android via Termux. Alerta o usuário antes do ransomware finalizar.
 
+Criado por André Unic - Estudante IBM SkillsBuild - Bug Hunter Caxias do Sul
 **Feito no celular. Para proteger o celular.**
 
 ### ⚡ INSTALAÇÃO EM 10 SEGUNDOS
